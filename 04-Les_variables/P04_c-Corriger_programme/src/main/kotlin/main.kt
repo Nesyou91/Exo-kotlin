@@ -1,5 +1,5 @@
 fun main() {
-    val string = "Hello, World!"
+    val string = "Hello, Kotlin!"
     string = "Hello, Kotlin!"
     println(string)
 }
